@@ -68,7 +68,7 @@ const Navbar = () => {
                                             duration={500}
                                             className="hover:text-brightColor transition-all cursor-pointer"
                                         >
-                                            Spicy
+                                        
                                         </Link> <Link
                                             to="Dishes"
                                             spy={true}
